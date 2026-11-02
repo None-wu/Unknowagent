@@ -1,8 +1,4 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    Produ
+
 # Unknow 使用说明书
 
 Unknow 是一款面向 Windows 的桌面 AI 助手，本目录提供安装包与便携版。
